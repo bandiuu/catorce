@@ -19,14 +19,14 @@ for (let i = 0; i < 15; i++) {
 
 // ✍️ Texto máquina de escribir
 const texto = [
-  "Siara 💗",
+  "Emi 💗",
   "",
-  "Quiero decirte algo muy especial...",
-  "Me gusta mucho pasar tiempo contigo,",
-  "porque cada momento a tu lado es especial. ✨",
+  "Quiero decirte algo...",
+  "Eres muy especial,",
+  "Cada poco momento que conversamos se siente bonis. ✨",
   "",
   "Hoy quiero regalarte estas flores amarillas,",
-  "aunque no sean reales, cada te quiero si lo es 🌻💛",
+  "aunque no sean reales, espero te saque una sonrisa 🌻💛",
   "",
   "Me alegra haberte conocido 💫 Feliz 14 💗"
 ];
@@ -63,3 +63,4 @@ boton.onclick = () => {
     boton.textContent = '🎵 Música';
   }
 };
+
