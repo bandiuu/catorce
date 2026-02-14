@@ -19,14 +19,14 @@ for (let i = 0; i < 15; i++) {
 
 // ✍️ Texto máquina de escribir
 const texto = [
-  "Emi 💗",
+  "Siara 💗",
   "",
   "Quiero decirte algo muy especial...",
-  "Eres muy especial,",
-  "Cada poco momento que conversamos lo senti bonis. ✨",
+  "Me gusta mucho pasar tiempo contigo,",
+  "porque cada momento a tu lado es especial. ✨",
   "",
   "Hoy quiero regalarte estas flores amarillas,",
-  "aunque no sean reales, espero te saque una sonrisa 🌻💛",
+  "aunque no sean reales, cada te quiero si lo es 🌻💛",
   "",
   "Me alegra haberte conocido 💫 Feliz 14 💗"
 ];
@@ -60,4 +60,6 @@ boton.onclick = () => {
     boton.textContent = '⏸️ Pausar';
   } else {
     audio.pause();
-    boton.textContent = '🎵
+    boton.textContent = '🎵 Música';
+  }
+};
